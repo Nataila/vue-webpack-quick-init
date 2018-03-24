@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^8.2.0",
+    "postcss-loader": "^2.1.3"
+  }
+}
